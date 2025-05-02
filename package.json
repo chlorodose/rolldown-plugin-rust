@@ -8,7 +8,7 @@
   },
   "author": "chlorodose",
   "license": "MIT",
-  "description": "Rolldown/Rollup plugin to import your rust code in your javascript/typescript code.",
+  "description": "Rolldown/Rollup plugin to import your rust code into your javascript/typescript code.",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -17,6 +17,23 @@
     "url": "git+https://github.com/chlorodose/rolldown-plugin-rust.git"
   },
   "homepage": "https://github.com/chlorodose/rolldown-plugin-rust",
+  "readme": "https://github.com/chlorodose/rolldown-plugin-rust#readme",
+  "bugs": {
+    "url": "https://github.com/chlorodose/rolldown-plugin-rust/issues",
+    "email": "chlorodose@chlorodose.me"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "keywords": [
+    "rollup",
+    "rolldown",
+    "plugin",
+    "rust"
+  ],
+  "maintainers": [
+    "chlorodose <chlorodose@chlorodose.me>"
+  ],
   "devDependencies": {
     "@types/node": "^22.15.3",
     "rolldown": "^1.0.0-beta.8",
