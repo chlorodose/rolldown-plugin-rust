@@ -1,4 +1,5 @@
 # rolldown-plugin-rust
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fchlorodose%2Frolldown-plugin-rust.svg?type=shield&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fchlorodose%2Frolldown-plugin-rust?ref=badge_shield&issueType=license)
 
 A Rolldown plugin that integrates Rust code (compiled to WebAssembly) into your JavaScript/TypeScript projects.
 
